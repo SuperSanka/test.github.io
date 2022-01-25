@@ -1,0 +1,14 @@
+input: .
+output: .retype
+url: https://wiki.warmine.ru/
+branding:
+  title: WIKI RPG Novice
+  label: Docs
+links:
+  - text: Главная
+    link: /README.md
+    icon: home
+
+  - text: Сайт
+    link: https://warmine.ru
+    icon: comment-discussion
